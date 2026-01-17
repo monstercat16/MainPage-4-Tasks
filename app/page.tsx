@@ -25,8 +25,8 @@ export default function Home() {
     {
       id: 4,
       label: "Final",
-      webUrl: "https://v0-fitness-tracker-app-5zo1.vercel.app/",
-      githubUrl: "https://github.com/monstercat16/Fitness",
+      webUrl: "https://fitness-tracker-html-zeta.vercel.app/",
+      githubUrl: "https://github.com/monstercat16/FITNESS-TRACKER-HTML",
     },
   ]
 
